@@ -68,8 +68,8 @@
                         
                         <div class="col-4 box-account">
                             <div class="account item">
-                                <a class="register" href="url">Đăng ký</a>
-                                <a href="url">Đăng nhập</a>
+                                <a class="register" href="register.jsp">Đăng ký</a>
+                                <a href="login.jsp">Đăng nhập</a>
                             </div>
                             
                             <div class="search-header item">
