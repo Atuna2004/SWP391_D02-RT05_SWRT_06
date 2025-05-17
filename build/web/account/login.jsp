@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Đăng nhập</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/login.css">
+    <link rel="stylesheet" href="../css/login.css">
 </head>
 <body>
     <div class="container">
@@ -35,9 +35,9 @@
         <div class="overlay-container">
             <div class="overlay-background"></div>
             <div class="overlay-content">
-                <h2>Hello, Friend!</h2>
-                <p>Register with your personal details to use all of site features</p>
-                <button class="ghost">SIGN UP</button>
+                <h2>Xin chào, bạn!</h2>
+                <p>Hãy đăng ký với thông tin cá nhân của bạn để sử dụng đầy đủ các tính năng của trang web.</p>
+                <button class="ghost">Đăng ký</button>
             </div>
         </div>
     </div>
